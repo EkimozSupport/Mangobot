@@ -1,12 +1,12 @@
-<h1 align="centre">YuiHirasawaMusicBot V5.Yeagerist-Music-Streamer-Bot-V3/YuiHirasawaMusicBot5
+<h1 align="centre">MangoMusicBot V5.Yeagerist-Music-Streamer-Bot-V3/YuiHirasawaMusicBot5
 🎵</h1>
 
 ### A Anime Theme music bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@YuiHirasawaMusic_Bot](https://t.me/YuiHirasawaMusic_Bot)
+### Available on telegram as [@MangoMusicBot](https://t.me/MangomusicBot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/e28cc6d53edb82d31ce9d.jpg">
+  <img src="https://telegra.ph/file/fac8adecbc233f3117cbc.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
