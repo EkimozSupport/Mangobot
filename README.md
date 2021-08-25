@@ -3,7 +3,7 @@
 
 ### A Anime Theme music bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@MangoMusic_Bot](https://t.me/Mangomusic_Bot)
+### Available on telegram as [@MangoMuzikBot](https://t.me/MangoMuzikBot)
 
 <p align="center">
   <img src="https://telegra.ph/file/fac8adecbc233f3117cbc.jpg">
